@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.efreeti.tssjetbrainsplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.efreeti.tssjetbrainsplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
